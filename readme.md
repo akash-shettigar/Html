@@ -38,6 +38,3 @@ I built this while learning HTML fundamentals before moving to CSS and JavaScrip
 > ⚠️ No CSS used yet — this project focuses only on **HTML structure**.
 
 ---
-
-## 📂 Project Structure
-
